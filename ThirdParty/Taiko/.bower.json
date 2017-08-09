@@ -1,0 +1,13 @@
+{
+  "name": "Taiko",
+  "version": "0.1.0",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "aae8d3d1f4e77b039959e7512f72a1629385e561"
+  },
+  "_source": "http://git.geek-zoo.net/iOS/Taiko.git",
+  "_target": "*",
+  "_originalSource": "http://git.geek-zoo.net/iOS/Taiko.git"
+}
